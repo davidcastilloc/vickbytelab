@@ -14,6 +14,10 @@
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
       "vue.volar"
+      "anteprimorac.html-end-tag-labels"
+      "bradlc.vscode-tailwindcss"
+      "Nuxtr.nuxtr-vscode"
+      "oxc.oxc-vscode"
     ];
     workspace = {
       # Runs when a workspace is first created with this `dev.nix` file
