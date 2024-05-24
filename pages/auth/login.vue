@@ -10,7 +10,6 @@
 <script lang="ts" setup>
 import FrmAuth from '../../components/auth/forms/frmAuth.vue';
 import AppLogo from '../../components/UI/AppLogo.vue';
-// Get data from the form
 
 </script>
 
