@@ -38,14 +38,6 @@ const form = reactive(
   }
 )
 
-const errorResponse = reactive(
-  {
-    code: 0,
-    message: "",
-    data: {}
-  }
-)
-
 const {
   error,
   pending,
